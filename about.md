@@ -1,4 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+​        北京邮电大学计算机本硕，硕士期间主要研究NLP（文本分类，句法分析），数据分析，了解机器学习，深度学习等常见算法，通晓C++,python, java,  爱刷leetcode，喜欢数学，积极乐观，爱好生活。职业意向为用C++架构师、后端开发、算法落地。
